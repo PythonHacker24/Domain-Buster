@@ -5,7 +5,7 @@ import time
 import optparse
 from colorama import Fore, Back, Style
 
-# This is a website subdomain enumeration tool
+# This is a Website Subdomain and Directory Enumeration Tool
 # Author : PythonHacker
 # Python Version Tested on : 3.10.7
 # Usage : Python3 [arguements]
