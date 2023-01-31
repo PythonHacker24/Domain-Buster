@@ -25,6 +25,6 @@ Requirements:
               
               Python Modules: optparse, time, colorama, requests
               
-**This program is not inteded for any illlegal purposes. Developer is not responsible for any damage done by the user in any circumstances.**
+**This program is not intended for any illegal purposes. Developer is not responsible for any damage done by the user in any circumstances.**
 
 
