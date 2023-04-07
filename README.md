@@ -3,7 +3,7 @@
 
  **This is a Website Subdomain and Directory Enumeration Tool**
 
- Author : PythonHacker
+ Author : Aditya Patil
 
  Python Version Tested on : 3.10.7
 
