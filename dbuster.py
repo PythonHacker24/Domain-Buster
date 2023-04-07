@@ -1,12 +1,11 @@
 #!/usr/share/python3
 
 import requests
-import time
 import optparse
 from colorama import Fore, Back, Style
 
 # This is a Website Subdomain and Directory Enumeration Tool
-# Author : PythonHacker
+# Author : Aditya Patil
 # Python Version Tested on : 3.10.7
 # Usage : Python3 [arguements]
 #         Arguements:
@@ -105,7 +104,7 @@ def line_count(path):
     return count
 
 print(Fore.GREEN + "\033[1m" + "\033[4m" + "\nDomain Buster - Website Enumeration Tool\n" + "\033[0m" + Style.RESET_ALL)
-print(Fore.WHITE + "  -----> By PythonHacker <-----\n" + Style.RESET_ALL)
+print(Fore.WHITE + "  -----> By Aditya Patil <-----\n" + Style.RESET_ALL)
 print(Fore.RED + "\033[4m" + "[!] Do not use this program for any illegal purposes. Author is not responsible for any misuse.\n" + Style.RESET_ALL)
 
 options = get_arguements()
